@@ -1,9 +1,9 @@
 # 📡 Streaming API — Real-time Order Monitoring Demo
 > Pipeline **Streaming API** berbasis **Server-Sent Events (SSE)** dan **WebSocket** untuk memantau event pesanan secara *real-time*, dibangun dengan PostgreSQL, Redis, Flask, dan Gradio.
 
-![Demo GIF](docs/demo.gif)
+![Demo GIF](docs/dashboard.gif)
 
-![Demo GIF](docs/demo2.gif)
+![Demo GIF](docs/raw-api.gif)
 
 ---
 
@@ -192,9 +192,6 @@ Proyek ini mendemonstrasikan implementasi **Streaming API** menggunakan **Server
    │  (auto-refresh)     │
    └─────────────────────┘
 ```
-
----
-
 
 ---
 
